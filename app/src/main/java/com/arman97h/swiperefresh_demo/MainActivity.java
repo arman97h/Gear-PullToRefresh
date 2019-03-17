@@ -5,8 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
+
 import com.arman97h.gearpulltorefresh.refreshview.GearRefreshLayout;
-import com.dinuscxj.refresh.IDragDistanceConverter;
 
 import java.util.ArrayList;
 

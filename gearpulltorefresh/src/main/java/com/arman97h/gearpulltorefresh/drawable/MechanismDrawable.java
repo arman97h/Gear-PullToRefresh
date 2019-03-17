@@ -98,6 +98,8 @@ public class MechanismDrawable extends BaseRefreshDrawable {
         matrix.reset();
         offset = INITIAL_OFFSET;
         gears.get(BASE_GEAR_POSITION).setAngle(INITIAL_ANGE);
+        objectAnimator.cancel();
+        isRunning = false;
     }
 
     @Override
