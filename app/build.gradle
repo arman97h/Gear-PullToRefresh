@@ -34,5 +34,6 @@ dependencies {
         exclude module: 'appcompat-v7'
         exclude module: 'support-v4'
     }
-    implementation project(':gearpulltorefresh')
+    implementation 'com.github.arman97h:Gear-PullToRefresh:0.1.5'
+
 }
