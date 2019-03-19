@@ -2,8 +2,8 @@
 
 [![](https://jitpack.io/v/arman97h/Gear-PullToRefresh.svg)](https://jitpack.io/#arman97h/Gear-PullToRefresh)
 
-[GearRefreshLayout](https://github.com/arman97h/Gear-PullToRefresh/blob/master/gearpulltorefresh/src/main/java/com/arman97h/gearpulltorefresh/refreshview/GearRefreshLayout.java) is based on the [SwipeRefreshLayout](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout)
-The `GearRefreshLayout` should be used whenever the user can refresh 
+[GearRefreshLayout](https://github.com/arman97h/Gear-PullToRefresh/blob/master/gearpulltorefresh/src/main/java/com/arman97h/gearpulltorefresh/refreshview/GearRefreshLayout.java) is based on the [SwipeRefreshLayout](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout).
+ The `GearRefreshLayout` should be used whenever the user can refresh 
 the contents of a `view` via a vertical swipe gesture. 
 [BaseGear](https://github.com/arman97h/Gear-PullToRefresh/blob/master/gearpulltorefresh/src/main/java/com/arman97h/gearpulltorefresh/gear/BaseGear.java) & [ConnectibleGear](https://github.com/arman97h/Gear-PullToRefresh/blob/master/gearpulltorefresh/src/main/java/com/arman97h/gearpulltorefresh/gear/ConnectibleGear.java) classes can be used for customization.
 
